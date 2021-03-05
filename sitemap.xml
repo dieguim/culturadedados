@@ -1,23 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://dieguim.github.io/culturadedados/markdown/2020/01/14/test-markdown-post.html</loc>
-<lastmod>2020-01-14T00:00:00-06:00</lastmod>
-</url>
-<url>
-<loc>https://dieguim.github.io/culturadedados/jupyter/2020/02/20/test.html</loc>
-<lastmod>2020-02-20T00:00:00-06:00</lastmod>
-</url>
-<url>
-<loc>https://dieguim.github.io/culturadedados/about/</loc>
+<loc>https://dieguim.github.io/culturadedados/sobre/</loc>
 </url>
 <url>
 <loc>https://dieguim.github.io/culturadedados/</loc>
 </url>
 <url>
-<loc>https://dieguim.github.io/culturadedados/search/</loc>
+<loc>https://dieguim.github.io/culturadedados/busca/</loc>
 </url>
 <url>
-<loc>https://dieguim.github.io/culturadedados/categories/</loc>
+<loc>https://dieguim.github.io/culturadedados/categorias/</loc>
 </url>
 </urlset>
